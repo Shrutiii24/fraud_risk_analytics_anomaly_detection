@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection System
+# Fraud Risk Analytics & Anomaly Detection System
 
 A Machine Learning project focused on detecting fraudulent credit card transactions using imbalance-aware modeling techniques and fraud-focused evaluation metrics.
 ## Project Overview
